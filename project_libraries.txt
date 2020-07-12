@@ -1,0 +1,9 @@
+to run this project we have to import these librabries
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+from flask import Flask,request,jsonify,render_template
+import pickle
