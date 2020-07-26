@@ -1,6 +1,6 @@
 # Poker_Game_Visual_Machine_Learning
 
-TO Run This Project.\
+TO Run This Project.
 
 1) you need to download the files
 
@@ -10,9 +10,11 @@ TO Run This Project.\
 
 4)Run all the cells and you are ready to go.
 
+------------------------------------------------------------------------------------
 
 
 1)Introduction to the Project and Dataset
+
 Import the dataset and then
 to print the head of dataset
 
