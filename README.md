@@ -1,5 +1,10 @@
 # Poker_Game_Visual_Machine_Learning
 
+TO Run This Project.
+1) you need to download the files
+2)place all files in users folder
+3)open anaconda
+4)Run all the cells and you are ready to go.
 
 
 
